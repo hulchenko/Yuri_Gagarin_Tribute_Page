@@ -14,11 +14,19 @@ color: grey;
 
 #img-caption {
   font-size: 30px;
-  color: red;
+  color: grey;
 }
 
 h2 {
+  font-style: italic;
+  font-size: 150%;
+  margin-top: -60px;
+  color: red;
+}
+
+h3 {
   font-family: 'Russo One', sans-serif;
+  font-size: 150%;
 }
 
 ul {
